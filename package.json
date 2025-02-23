@@ -1,0 +1,15 @@
+{
+  "name": "studybunny",
+  "version": "1.0.0",
+  "description": "Bunny gacha study timer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "applewendy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^34.2.0"
+  }
+}
